@@ -15,7 +15,7 @@ spec:
   targetNamespace: staging
   values:
     image:
-      tag: 2.9.17
+      tag: 2.9.18
     ingress:
       host: staging.devops-toolkit.localhost.xip.io
 
