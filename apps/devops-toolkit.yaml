@@ -17,5 +17,5 @@ spec:
     image:
       tag: 2.9.9
     ingress:
-      host: staging.devops-toolkit..xip.io
+      host: staging.devops-toolkit.localhost.xip.io
 
